@@ -1,0 +1,7 @@
+# Placeholder file for output directory
+# Cleaned files and reports will be saved here
+
+Generated files:
+- cleaned_*.csv - Cleaned data files
+- report_*.txt - Validation reports
+- stats_*.txt - Summary statistics
