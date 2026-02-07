@@ -1,0 +1,7 @@
+# Placeholder file for input directory
+# Place your CSV or Excel files here for processing
+
+Example files:
+- sales_data.csv
+- customer_list.xlsx
+- survey_responses.csv
