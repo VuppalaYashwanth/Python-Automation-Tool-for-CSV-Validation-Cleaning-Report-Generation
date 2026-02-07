@@ -421,10 +421,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Vuppala Yashwanth**
+- GitHub: [@VuppalaYashwanth](https://github.com/VuppalaYashwanth)
+- LinkedIn: (https://linkedin.com/in/yashwanth-vuppala)
+- Email: yoashwanthvuppala123@gmail.com
 
 ## 🙏 Acknowledgments
 
